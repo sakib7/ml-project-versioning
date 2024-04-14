@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T22:35:56.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n7sighV1Ylw45MaYc8Pb" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T23:39:17.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zM1Smi1V1PyKSulUyyqA" version="22.1.16" type="github">
   <diagram name="Page-1" id="pNg9uB7DIMF8Ac7twuoz">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,13 +137,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="54JFzNNIqLwn8hnlvpv5-45" value="loop_i = 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="100" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="54JFzNNIqLwn8hnlvpv5-46" value="loop_i &amp;lt;&amp;nbsp;incomeList.len" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="54JFzNNIqLwn8hnlvpv5-46" value="incomeList.hasNext()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="54JFzNNIqLwn8hnlvpv5-47" value="loop_i &amp;gt;= incomeList.len" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="54JFzNNIqLwn8hnlvpv5-47" value="! incomeList.hasNext()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="54JFzNNIqLwn8hnlvpv5-48" value="i = 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -229,6 +226,9 @@
         </mxCell>
         <mxCell id="54JFzNNIqLwn8hnlvpv5-76" value="return 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="910" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54JFzNNIqLwn8hnlvpv5-77" value="income = incomeList.next()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
