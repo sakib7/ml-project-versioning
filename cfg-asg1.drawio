@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T15:47:35.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Yk1hL8r-8ObGzuD_rzqb" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T16:52:36.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JIHLGCnTZUPpzJyg5NrN" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="pNg9uB7DIMF8Ac7twuoz">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -464,10 +464,10 @@
         <mxCell id="kOrU-L9E0rTEJFqbvUaz-57" value="income = incomeList.next()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
           <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH98EPF5AJdnc-tDjTlw-0" value="&lt;font color=&quot;#0000ff&quot;&gt;def = {taxAmount,incomeAmount}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kOrU-L9E0rTEJFqbvUaz-1">
+        <mxCell id="KH98EPF5AJdnc-tDjTlw-0" value="&lt;font color=&quot;#0000ff&quot;&gt;def = {incomeAmount}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kOrU-L9E0rTEJFqbvUaz-1">
           <mxGeometry x="450" y="100" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KH98EPF5AJdnc-tDjTlw-1" value="&lt;font color=&quot;#0000ff&quot;&gt;def = {incomeAmount}&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;use = {incomeAmount}&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kOrU-L9E0rTEJFqbvUaz-1">
+        <mxCell id="KH98EPF5AJdnc-tDjTlw-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;use = {incomeAmount}&lt;/span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#0000ff&quot;&gt;def = {incomeAmount}&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kOrU-L9E0rTEJFqbvUaz-1">
           <mxGeometry x="361" y="535" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KH98EPF5AJdnc-tDjTlw-2" value="&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;def = {taxAmount}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;use = {incomeAmount}&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kOrU-L9E0rTEJFqbvUaz-1">
