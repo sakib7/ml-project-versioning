@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T16:52:36.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JIHLGCnTZUPpzJyg5NrN" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-17T22:38:09.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OaVtBo3X6m2UlP0kDw7t" version="24.2.5" type="github" pages="2">
   <diagram name="Page-1" id="pNg9uB7DIMF8Ac7twuoz">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -371,10 +371,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kOrU-L9E0rTEJFqbvUaz-31" value="incomeList.hasNext()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontColor=#FF0000;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
+        <mxCell id="kOrU-L9E0rTEJFqbvUaz-31" value=" incomeList != ‘empty’" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontColor=#FF0000;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
           <mxGeometry x="230" y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kOrU-L9E0rTEJFqbvUaz-32" value="! incomeList.hasNext()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontColor=#FF0000;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
+        <mxCell id="kOrU-L9E0rTEJFqbvUaz-32" value=" incomeList == ‘empty’" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;fontColor=#FF0000;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
           <mxGeometry x="440" y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kOrU-L9E0rTEJFqbvUaz-33" value="i = 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kOrU-L9E0rTEJFqbvUaz-1" vertex="1">
